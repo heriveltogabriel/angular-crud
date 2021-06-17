@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": "5.99"
+    },
+    {
+      "name": "Televisão 32 Polegadas",
+      "price": "999,90",
+      "id": 2
+    },
+    {
+      "name": "Caneta BIC Preta",
+      "price": "23",
+      "id": 3
+    },
+    {
+      "name": "Caneta BIC",
+      "price": "33",
+      "id": 4
+    }
+  ]
+}
